@@ -1,30 +1,83 @@
 ### Jang-Ho Hwang
 
-Software engineer in Heidelberg, Germany.
-Building practical tools since 2008 — from macOS window managers to fortune-telling calculators.
+Shipping code since 1999. Software architect in Heidelberg, Germany.
 
-Most of my work lives in private repositories. Here are some things I've open-sourced:
-
----
-
-**[orrery](https://github.com/rath/orrery)** `TypeScript` \
-사주팔자 · 자미두수 · 출생차트 계산기 — 서버 없이 브라우저에서 십신, 대운, 명반, 사화까지
-
-**[Vimdow](https://github.com/rath/Vimdow)** `Objective-C` \
-macOS window manager with vim-style keybindings
-
-**[angular-folding](https://github.com/rath/angular-folding)** `Java` \
-IntelliJ plugin that groups Angular component files
-
-**[sonica](https://github.com/rath/sonica)** `Rust` \
-GPU-accelerated audio visualizer — WGSL shaders to MP4 via wgpu and ffmpeg
-
-**[zitat](https://github.com/rath/zitat)** `Python` \
-YouTube clip extraction → Whisper transcription → Claude translation pipeline
-
-**[lumivue](https://github.com/rath/lumivue)** `JavaScript` \
-Chrome extension for translating selected text or entire pages using LLM
+I build backends, AI products, and mobile apps — mostly alone, mostly in private repos.
+If it can be shipped by one person, I've probably shipped it.
 
 ---
 
-[xrath.com](https://xrath.com) · [App Store](https://apps.apple.com/developer/id361013633)
+#### Now
+
+Building AI SaaS products at [AI3](https://ai3.kr) — LLM gateway, image/video generation, AI note-taking.
+React 19, NestJS, PostgreSQL. Claude Code for everything else.
+
+#### Before
+
+Three CTO roles. Senior engineer at Kakao, Electronic Arts, Fancy.com.
+Built an Android app that hit 2M+ downloads. Cut $200K/month in AWS costs at Fancy.com.
+Put 1,653 commits into a single diary app. I don't stop until it ships.
+
+---
+
+#### Open Source
+
+<p>
+  <a href="https://github.com/rath/orrery">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=orrery&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=orrery&theme=default&hide_border=true" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/rath/Vimdow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=Vimdow&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=Vimdow&theme=default&hide_border=true" width="49%">
+    </picture>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/rath/sonica">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=sonica&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=sonica&theme=default&hide_border=true" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/rath/zitat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=zitat&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=zitat&theme=default&hide_border=true" width="49%">
+    </picture>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/rath/lumivue">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=lumivue&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=lumivue&theme=default&hide_border=true" width="49%">
+    </picture>
+  </a>
+  <a href="https://github.com/rath/angular-folding">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=angular-folding&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rath&repo=angular-folding&theme=default&hide_border=true" width="49%">
+    </picture>
+  </a>
+</p>
+
+---
+
+#### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,rust,java,swift,django,react,nextjs,nestjs,flutter,docker,aws,postgres,linux&theme=dark&perline=14">
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,java,swift,django,react,nextjs,nestjs,flutter,docker,aws,postgres,linux&theme=light&perline=14">
+</picture>
+
+---
+
+<sub>
+
+[xrath.com](https://xrath.com)
+
+</sub>
