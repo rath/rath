@@ -19,14 +19,14 @@
 
 ## Now
 
-Building AI SaaS at [AI3](https://ai3.kr) — LLM gateway, image/video generation, AI note-taking.
-React 19 + NestJS + PostgreSQL. Claude Code for everything else.
+Maintaining **[BizRouter](https://bizrouter.ai)**, an LLM gateway for the Korean market, at [AI3](https://ai3.kr).
+Also building AI-powered SaaS — [image generation](https://apps.wrks.ai/image/), [video generation](https://apps.wrks.ai/video/), and [AI note-taking](https://apps.wrks.ai/notes/).
 
 ## Before
 
-Three CTO stints. Senior engineer at Kakao, Electronic Arts, Fancy.com.
-Built an Android app that hit 2M+ downloads. Cut $200K/month in AWS costs at Fancy.com.
-1,653 commits into a single diary app. I don't stop until it ships.
+26 years of writing code for a living. Built a 2M-download app as a solo dev, ran Django at 10M requests/day at Fancy.com, wrote chatbot engines at Kakao, shipped 10 iOS apps with a designer friend. Three CTO roles along the way.
+
+I've always liked owning the whole thing — backend, frontend, infra, deploy. Pick up whatever language the job needs and move on to the next one.
 
 ## Open Source
 
