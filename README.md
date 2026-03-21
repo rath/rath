@@ -19,8 +19,8 @@
 
 ## Now
 
-Maintaining **[BizRouter](https://bizrouter.ai)**, an LLM gateway for the Korean market, at [AI3](https://ai3.kr).
-Also building AI-powered SaaS — [image generation](https://apps.wrks.ai/image/), [video generation](https://apps.wrks.ai/video/), and [AI note-taking](https://apps.wrks.ai/notes/).
+Designing and maintaining **[BizRouter](https://bizrouter.ai)**, an LLM gateway for the Korean market.
+Also building AI-powered SaaS — [image generation](https://apps.wrks.ai/image/) and [video generation](https://apps.wrks.ai/video/).
 
 ## Before
 
