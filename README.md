@@ -17,15 +17,6 @@
 > I build backends, AI products, and mobile apps — mostly alone, mostly in private repos.
 > If it can be shipped by one person, I've probably shipped it.
 
-## Now
-
-Designing and maintaining **[BizRouter](https://bizrouter.ai)**, an LLM gateway for the Korean market.
-Also building AI-powered SaaS — [image generation](https://apps.wrks.ai/image/) and [video generation](https://apps.wrks.ai/video/).
-
-## Before
-
-Built a 2M-download Android app as a solo dev. Ran Django at 10M requests/day for an e-commerce platform. Wrote chatbot engines and maintained messenger servers at Kakao. Shipped 10 iOS apps with a designer friend. Three CTO roles. Been at it for over two decades and still can't stop touching things.
-
 I like picking up whatever tool the job needs — backend, frontend, mobile, infra — build it, ship it, move on to the next one.
 
 ## Open Source
