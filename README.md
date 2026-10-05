@@ -21,6 +21,7 @@ I like picking up whatever tool the job needs — backend, frontend, mobile, inf
 
 ## Open Source
 
+- 🎧 **[vtamp](https://github.com/rath/vtamp)** - Terminal music player in Rust: local files, live radio, and YouTube imports, with a persistent playback server that keeps playing after you detach
 - 🗜️ **[portway](https://github.com/rath/portway)** - Local proxy for coding agents: each turn uploads as a delta (1 MiB context → ~1 KiB), with a TUI and web console for tokens and cost
 - 🔬 **[iotap](https://github.com/rath/iotap)** - Trace the file and network I/O of any process on macOS and Linux: every read and write with size, latency, and target, via kdebug and eBPF
 - 🔮 **[orrery](https://github.com/rath/orrery)** - East Asian fortune-telling calculator (BaZi, Zi Wei Dou Shu, birth chart), entirely in the browser
